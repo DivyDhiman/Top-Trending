@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gojek test</string>
+
+    <string name="type_dashboard">Type Dashboard</string>
+
+    <!--Api Response error-->
+    <string name="error_Http_not_found">HTTP_NOT_FOUND</string>
+    <string name="error_Http_internal">HTTP_INTERNAL_ERROR</string>
+    <string name="error_Http_other">HTTP_OTHER_ERROR</string>
+    <string name="error">Error</string>
+    <string name="network_error">Internet is not working&#8230;</string>
+<string name="trending_repo_adapter_view">trending_repo_adapter_view</string>
+</resources>
